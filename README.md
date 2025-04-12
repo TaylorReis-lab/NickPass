@@ -20,7 +20,7 @@ NickPass é uma ferramenta simples e divertida para gerar senhas seguras e nicks
 
 📸 Tela do Projeto
 
-(https://imgur.com/a/BvUsoev)
+https://imgur.com/a/BvUsoev
 
 ⚙️ Como Rodar o Projeto
 Clone o repositório:
