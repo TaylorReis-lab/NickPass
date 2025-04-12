@@ -1,46 +1,59 @@
-# Getting Started with Create React App
+# NickPass
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NickPass é uma ferramenta simples e divertida para gerar senhas seguras e nicks criativos sem complicação! Criado com React e TypeScript, este projeto ajuda a gerar senhas fáceis de lembrar e nicks únicos, ideais tanto para jogos quanto para plataformas online.
 
-## Available Scripts
+🚀 Funcionalidades
+- Geração de senhas seguras: Senhas com palavras fáceis de lembrar e símbolos, sem comprometer a segurança.
 
-In the project directory, you can run:
+- Geração de nicks criativos: Nicks engraçados e originais, sem números, usando palavras do cotidiano e do universo animal.
 
-### `npm start`
+- Troca de emojis: Emojis são trocados periodicamente no título para dar um toque mais leve e divertido ao projeto.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+🛠 Tecnologias Utilizadas
+- React (Biblioteca de interface)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- TypeScript (JavaScript tipado)
 
-### `npm test`
+- CSS (Estilização)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Hooks do React (Para o controle de estado e animação)
 
-### `npm run build`
+📸 Tela do Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+(https://imgur.com/a/BvUsoev)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+⚙️ Como Rodar o Projeto
+Clone o repositório:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+bash
+Copiar
+Editar
+git clone https://github.com/seu-usuario/nickpass.git
+Instale as dependências:
 
-### `npm run eject`
+bash
+Copiar
+Editar
+cd nickpass
+npm install
+Inicie o projeto:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+bash
+Copiar
+Editar
+npm start
+Acesse o projeto no seu navegador: http://localhost:3000
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+📝 Como Contribuir
+Faça um fork do projeto.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Crie uma branch para a sua feature (git checkout -b feature/nova-feature).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Faça o commit das suas alterações (git commit -am 'Adiciona nova feature').
 
-## Learn More
+Push para a branch (git push origin feature/nova-feature).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Abra um pull request.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+🤝 Licença
+Distribuído sob a licença MIT. Veja LICENSE para mais detalhes.
