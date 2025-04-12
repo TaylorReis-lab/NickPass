@@ -18,9 +18,9 @@ NickPass é uma ferramenta simples e divertida para gerar senhas seguras e nicks
 
 - Hooks do React (Para o controle de estado e animação)
 
-📸 Tela do Projeto
+# 📸 Tela do Projeto
 
-https://imgur.com/a/BvUsoev
+<img src="https://github.com/TaylorReis-lab/NickPass/blob/main/picture/Captura%20de%20tela%202025-04-12%20172908.png" alt="image-site" />
 
 ⚙️ Como Rodar o Projeto
 Clone o repositório:
@@ -30,30 +30,25 @@ Copiar
 Editar
 git clone https://github.com/seu-usuario/nickpass.git
 Instale as dependências:
+   ```bash
+    cd nickpass
+    npm install
+   ```
+- Inicie o projeto:
+```
+  npm start
+```
 
-bash
-Copiar
-Editar
-cd nickpass
-npm install
-Inicie o projeto:
-
-bash
-Copiar
-Editar
-npm start
 Acesse o projeto no seu navegador: http://localhost:3000
 
-📝 Como Contribuir
-Faça um fork do projeto.
+#📝 Como Contribuir
 
-Crie uma branch para a sua feature (git checkout -b feature/nova-feature).
+- Faça um fork do projeto.
 
-Faça o commit das suas alterações (git commit -am 'Adiciona nova feature').
+- Crie uma branch para a sua feature (git checkout -b feature/nova-feature).
 
-Push para a branch (git push origin feature/nova-feature).
+- Faça o commit das suas alterações (git commit -am 'Adiciona nova feature').
+
+- Push para a branch (git push origin feature/nova-feature).
 
 Abra um pull request.
-
-🤝 Licença
-Distribuído sob a licença MIT. Veja LICENSE para mais detalhes.
